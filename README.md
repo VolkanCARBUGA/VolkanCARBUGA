@@ -1,7 +1,7 @@
-<!-- Özel Tasarım Profil Hero Banner -->
+<!-- Kod ile Üretilmiş Temiz Profil Banner (Zero AI Slop) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/volkan-carbuga">
-    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner.jpg" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
+    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner_clean.png" alt="Volkan Çarbuğa — Mobile, Full-Stack & AI Systems" width="100%" />
   </a>
 </p>
 
