@@ -1,44 +1,97 @@
-# 👋 Merhaba, ben Volkan!
+<!-- Dinamik Üst Dalga Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:0A84FF,100:64D2FF&height=210&section=header&text=Volkan%20%C3%87arbu%C4%9Fa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20%26%20Systems%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Volkan Çarbuğa Banner" width="100%" />
+</p>
 
-🚀 Flutter ile mobil uygulamalar geliştiriyorum. 
-💻 React Native, Python, C#, C, Java, Kotlin, Flutter ve Dart gibi dillerde deneyimliyim.  
-🟢 SQL, MySQL ve Firebase gibi veritabanı çözümleri üzerine çalışıyorum.  
-🤖 Yapay zeka, IoT ve web teknolojileri ile ilgileniyorum ve kendimi bu alanlarda geliştiriyorum.  
-📝 WordPress ve Figma bilgim var, web ve UI/UX projeleri üzerinde çalışıyorum.  
-🎯 Hedefim, yapay zeka ve IoT kullanarak mobil uygulamalar geliştirmek.  
-🎧 [YouTube kanalımda](https://youtube.com/@yazilimdunyasi06?si=ZN8QyUsc0jsou_5f) yazılım ile ilgili içerikler üretiyorum.  
-💌 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/volkan-carbuga/) veya [Gmail](mailto:volkanilkyar@gmail.com) üzerinden iletişime geçebilirsiniz
+<!-- Canlı Yazı Animasyonu -->
+<p align="center">
+  <a href="https://github.com/VolkanCARBUGA">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Mobile+%26+Full-Stack+Developer+%F0%9F%9A%80;Flutter+%E2%80%A2+React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+Production+Apps%2C+AI+Tools+%26+System+Utilities;Ger%C3%A7ek+problemleri+u%C3%A7tan+uca+%C3%BCr%C3%BCne+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-### 🌊 GitHub İstatistiklerim
-
-![Volkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VolkanCARBUGA&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VolkanCARBUGA&layout=compact&theme=dark)
-
----
-
-### 🚀 Kullandığım Teknolojiler
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<!-- İletişim & Canlı Profil Rozetleri -->
+<p align="center">
+  <a href="mailto:volkanilkyar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-volkanilkyar%40gmail.com-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/volkancarbuga">
+    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Konum-Ankara%2C%20TR-1E293B?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Ankara" />
+  <img src="https://komarev.com/ghpvc/?username=VolkanCARBUGA&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme&color=0a84ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌍 Sosyal Medya
+### 👋 Hakkımda
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yazilimdunyasi06?si=ZN8QyUsc0jsou_5f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volkan-carbuga/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volkanilkyar@gmail.com)
+Merhaba! Ben **Volkan Çarbuğa** — gerçek dünya problemlerini **uçtan uca çalışan, sürdürülebilir ürünlere** dönüştürmeye odaklanan bir **Mobil, Full-Stack ve AI Geliştiricisiyim**.
+
+* 📱 **Mobil Geliştirme:** Flutter & React Native ile uzun soluklu üretim uygulamaları, yönetici panelleri ve mağaza yayınları geliştiriyorum.
+* 🌐 **Web & Backend:** React, TypeScript, Node.js ve PHP/MySQL ile e-ticaret, eğitim ve kurumsal yönetim platformları kuruyorum.
+* 🤖 **Yapay Zekâ & Sistem Araçları:** Python, NLP, LLM otomasyonları ve düşük seviye macOS (`CoreGraphics`, `ADB`, `WebSocket`) sistem araçları üretiyorum.
+* 🛠️ **Güncel Odak:** `Ekran Yansıtıcı` (açık kaynak), `Business Hub`, `Akıllı Çiftçi` ve AI tabanlı otomasyon araçları.
+
+---
+
+### 🚀 Öne Çıkan Açık Kaynak Projelerim
+
+| Proje | Teknoloji | Açıklama |
+| :--- | :--- | :--- |
+| **[🖥️ Ekran Yansıtıcı](https://github.com/VolkanCARBUGA/ekran-yansitici)** | `Python` `macOS CoreGraphics` `ADB` `WebSocket` `PWA` | Ekranı kırık Mac dizüstünü herhangi bir Android tableti **USB tak-çalıştır veya Wi-Fi** üzerinden 60 FPS, canlı imleçli, dokunmatik ve pinch-zoom destekli ana monitöre dönüştüren sıfır-kurulumlu sistem. |
+| **[🧭 Kaşif](https://github.com/VolkanCARBUGA/kasif)** | `JavaScript` `MIT` | Açık kaynak keşif ve web uygulaması projesi (⭐ 3). |
+| **[🕌 Ezan Vakti](https://github.com/VolkanCARBUGA/ezan_vakti)** | `Flutter` `Dart` | Modern arayüzlü günlük namaz vakitleri ve takip uygulaması. |
+| **[🤖 AI Chat Bot App](https://github.com/VolkanCARBUGA/ai_chat_bot_app)** | `Flutter` `Dart` `AI API` | Yapay zekâ destekli mobil sohbet asistanı uygulaması. |
+| **[🛒 Flutter E-Commerce](https://github.com/VolkanCARBUGA/flutter_ecommerce)** | `Flutter` `Dart` | Ürün kataloğu, sepet ve sipariş akışlarını içeren kapsamlı mobil e-ticaret mimarisi. |
+| **[🧠 Natural Language Processing](https://github.com/VolkanCARBUGA/natural-language-processing)** | `Python` `NLP` `ML` | Doğal dil işleme modelleri, metin analizi ve veri bilimi çalışmaları. |
+
+---
+
+### 🏭 Üretim & Ticari Ürün Vitrini *(Private Repolar)*
+
+> Müşteri gizliliği veya ticari yayın nedeniyle kaynak kodu özel (`Private`) tutulan, uçtan uca tasarlayıp geliştirdiğim aktif projeler:
+
+| Ürün / Ekosistem | Alan & Rol | Teknoloji Yığını | Süre / Durum |
+| :--- | :--- | :--- | :--- |
+| **Sorento Mobil** | Uzun soluklu kurumsal mobil uygulama | `Flutter` `Dart` | ~2 Yıl • Üretim |
+| **E-Döner & Kaos Admin** | Müşteri sipariş uygulaması + ayrı yönetici paneli | `Flutter` `Dart` | 9+ Ay • Ekosistem |
+| **Akıllı / Hesaplı Çiftçi** | Tarım & çiftçi yönetimi mobil uygulaması | `Flutter` `Dart` | Aktif • Store Yayını |
+| **Bilgin Platformu** | Çoklu platform ürün ailesi *(Ana Platform + Mobil + Web + Tanıtım)* | `HTML/JS` `Flutter` | 5+ Ay • Aktif |
+| **Business Hub** | İşletme & operasyon yönetimi mobil uygulaması | `Flutter` `Dart` | 5+ Ay • Aktif |
+| **Ege Fason** | Zeytinyağı & doğal ürün e-ticaret sistemi | `React` `TypeScript` `PHP` `MySQL` | Üretim |
+| **Sorumluluk Sınav & Eğitim** | Sınav ve çevrimiçi eğitim yönetim platformları | `TypeScript` `Web` | Aktif |
+| **Acil Yardım** | Konum/destek odaklı mobil uygulama | `Flutter` `Dart` | 6 Ay • Geliştirildi |
+| **AI Job Search** | Yapay zekâ destekli iş arama ve eşleştirme otomasyonu | `Python` `AI` | Aktif |
+
+---
+
+### 🛠️ Teknoloji Yığınım
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,swift,kotlin,python,nodejs,php,mysql,firebase,html,css,git,github,vscode,apple&perline=9" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 Canlı GitHub İstatistiklerim
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=VolkanCARBUGA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0A84FF&count_private=true&include_all_commits=true" alt="Volkan GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolkanCARBUGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VolkanCARBUGA&theme=tokyonight&hide_border=true&background=0D1117&ring=0A84FF&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VolkanCARBUGA&bg_color=0D1117&color=94A3B8&line=0A84FF&point=38BDF8&area=true&area_color=0A84FF&hide_border=true" alt="Activity Graph" width="96%" />
+</p>
+
+---
+
+<!-- Alt Dalga Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64D2FF,50:0A84FF,100:0A0E1A&height=110&section=footer" alt="Footer Wave" width="100%" />
+</p>
