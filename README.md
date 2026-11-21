@@ -1,6 +1,6 @@
-<!-- Dinamik Üst Dalga Banner -->
+<!-- Dinamik Üst Dalga Banner (Repo-içi SVG — %100 garantili & hızlı yüklenir) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,50:0A84FF,100:64D2FF&height=210&section=header&text=Volkan%20%C3%87arbu%C4%9Fa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20%26%20Systems%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Volkan Çarbuğa Banner" width="100%" />
+  <img src="./header.svg" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
 </p>
 
 <!-- Canlı Yazı Animasyonu -->
@@ -91,7 +91,7 @@ Merhaba! Ben **Volkan Çarbuğa** — gerçek dünya problemlerini **uçtan uca 
 
 ---
 
-<!-- Alt Dalga Footer -->
+<!-- Alt Dalga Footer (Repo-içi SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64D2FF,50:0A84FF,100:0A0E1A&height=110&section=footer" alt="Footer Wave" width="100%" />
+  <img src="./footer.svg" alt="Footer Wave" width="100%" />
 </p>
