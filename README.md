@@ -1,7 +1,7 @@
 <!-- AI, IoT, Mobil & Akıllı Teknolojiler Özel Profil Banner -->
 <p align="center">
   <a href="https://www.linkedin.com/in/volkan-carbuga">
-    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner_hero.jpg" alt="Volkan Çarbuğa — AI, IoT, Mobile & Smart Systems Developer" width="100%" />
+    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/refs/heads/main/banner_hero.jpg" alt="Volkan Çarbuğa — AI, IoT, Mobile & Smart Systems Developer" width="100%" />
   </a>
 </p>
 
