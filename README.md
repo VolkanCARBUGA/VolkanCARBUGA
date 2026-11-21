@@ -1,7 +1,7 @@
 <!-- Özel Tasarım Profil Hero Banner -->
 <p align="center">
   <a href="https://www.linkedin.com/in/volkan-carbuga">
-    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/refs/heads/main/banner.jpg" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
+    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner.jpg" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
   </a>
 </p>
 
