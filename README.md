@@ -1,7 +1,7 @@
-<!-- Kod ile Üretilmiş Temiz Profil Banner (Zero AI Slop) -->
+<!-- AI, IoT, Mobil & Akıllı Teknolojiler Özel Profil Banner -->
 <p align="center">
   <a href="https://www.linkedin.com/in/volkan-carbuga">
-    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner_clean.png" alt="Volkan Çarbuğa — Mobile, Full-Stack & AI Systems" width="100%" />
+    <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/banner_hero.jpg" alt="Volkan Çarbuğa — AI, IoT, Mobile & Smart Systems Developer" width="100%" />
   </a>
 </p>
 
