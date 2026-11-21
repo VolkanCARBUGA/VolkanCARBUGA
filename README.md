@@ -1,6 +1,6 @@
 <!-- Üst Banner (Retina PNG — Safari/Chrome/Mobil %100 uyumlu) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/header.png" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/refs/heads/main/header.png" alt="Volkan Çarbuğa — Mobile, Full-Stack, AI & Systems Developer" width="100%" />
 </p>
 
 <!-- Canlı Yazı Animasyonu -->
@@ -95,5 +95,5 @@ Merhaba! Ben **Volkan Çarbuğa** — gerçek dünya problemlerini **uçtan uca 
 
 <!-- Alt Dalga Footer (Retina PNG) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/main/footer.png" alt="Footer Wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/VolkanCARBUGA/VolkanCARBUGA/refs/heads/main/footer.png" alt="Footer Wave" width="100%" />
 </p>
