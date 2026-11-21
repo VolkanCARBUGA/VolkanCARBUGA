@@ -12,13 +12,15 @@
 
 <!-- İletişim & Canlı Profil Rozetleri -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/volkan-carbuga">
+    <img src="https://img.shields.io/badge/LinkedIn-volkan--carbuga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@Yaz%C4%B1l%C4%B1mD%C3%BCnyas%C4%B106">
+    <img src="https://img.shields.io/badge/YouTube-Yaz%C4%B1l%C4%B1m%20D%C3%BCnyas%C4%B1-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   <a href="mailto:volkanilkyar@gmail.com">
     <img src="https://img.shields.io/badge/Email-volkanilkyar%40gmail.com-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/volkancarbuga">
-    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Konum-Ankara%2C%20TR-1E293B?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Ankara" />
   <img src="https://komarev.com/ghpvc/?username=VolkanCARBUGA&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme&color=0a84ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
